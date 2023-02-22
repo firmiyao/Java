@@ -1,1 +1,3 @@
 # Java
+
+**Note about Java**
